@@ -6,10 +6,10 @@ const Navbar = () => {
       <div className=" mx-5 text-3xl text-transparent from-orange-400 via-pink-600 to-yellow-300 bg-gradient-to-r bg-clip-text font-bold">C.K.&@hoo</div>
       <div className=" flex gap-4 items-center">
          <a href="https://github.com/chinmaya-704" target='_blank'>
-            <img className='hover:opacity-70 size-10' src="github.png" alt="git" />
+            <img className='hover:opacity-70 size-7 sm:size-10' src="github.png" alt="git" />
          </a>
          <a target='_blank' href="https://www.linkedin.com/in/chinmaya-sahoo-b47385254">
-            <img className=' size-10 hover:opacity-70' src="linkedin.png" alt="linkedin" />
+            <img className=' size-7 sm:size-10 hover:opacity-70' src="linkedin.png" alt="linkedin" />
          </a>
          <a href="RESUME.pdf" download={"Chinmaya Kumar Sahoo"}>
             <button className=' bg-black p-2 rounded-full font-bold text-indigo-800/95 hover:opacity-70'>Resume</button>

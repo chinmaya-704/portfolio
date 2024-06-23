@@ -5,9 +5,9 @@ const Main = () => {
   const phrase=["Frontend Developer","Backend Developer"]
 
   return (
-    <div className='flex flex-col sm:flex-row gap-4 p-5 my-5'>
+    <div className='flex flex-col sm:flex-row gap-4 p-5 my-7'>
       <div className="mx-auto rounded-full object-contain w-1/2 sm:w-[20%] flex justify-center items-center drop-shadow-xl shadow-[#00efff]">
-        <img className=' w-full h-auto rounded-full object-cover ' src="dp.jpg" alt="" />
+        <img className=' w-full h-auto rounded-full object-cover shadow-xl shadow-cyan-400' src="dp.jpg" alt="" />
       </div>
 
       <div className="w-[100%] sm:w-[60%]  p-2 px-5">

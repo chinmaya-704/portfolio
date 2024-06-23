@@ -16,6 +16,12 @@ const items=[
       desc:"HTML, CSS",
       title:"Landing Page",
       link:"https://chinmaya-704.github.io/LANDING-PAGE/"
+   },
+   {
+      img:"gallery.png",
+      desc:"HTML, CSS, Javascript",
+      title:"Image Gallery",
+      link:"https://chinmaya-704.github.io/IMAGE-GALLERY/"
    }
 ]
 
