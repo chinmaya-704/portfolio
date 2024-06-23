@@ -2,7 +2,7 @@ import React from 'react'
 import { ReactTyped } from 'react-typed'
 
 const Main = () => {
-  const phrase=["a Frontend Developer","and a Backend Developer"]
+  const phrase=["Frontend Developer","Backend Developer"]
 
   return (
     <div className='flex flex-col sm:flex-row gap-4 p-5 my-5'>
@@ -15,7 +15,7 @@ const Main = () => {
 
          <p className=' colour text-7xl font-bold'>Chinmaya Kumar Sahoo</p>
 
-         <p className='font-bold tcolour text-6xl my-8 w-full'>I'm {""}
+         <p className='font-bold tcolour text-6xl my-8 w-full'>I'm a {""}
           <ReactTyped
             strings={phrase}
             typeSpeed={200}
