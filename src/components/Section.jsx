@@ -12,7 +12,7 @@ const Section = (props) => {
 
       <div className="p-3 text-cyan-300 text-2xl font-bold play text-center">Some of the projects that I have created so far are listed below:</div>
 
-      <div className=" w-[90%] grid grid-cols-1 mx-auto sm:grid-cols-2 md:grid-cols-3 gap-20 py-8 px-4 ">
+      <div className=" w-[90%] grid grid-cols-1 mx-auto sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-20 py-8 px-4 ">
         {items.map((x,i)=>{
           return <Card key={i} id={i} img={x.img} link={x.link} desc={x.desc} title={x.title}/>
         })}
