@@ -1,5 +1,11 @@
 const items=[
    {
+      img:"gemini.png",
+      desc:"React js, Tailwind CSS",
+      title:"Gemini Clone",
+      link:"https://gemini-flame-seven.vercel.app/"
+   },
+   {
       img:"game.png",
       desc:"HTML, CSS, Javascript",
       title:"Rock Paper Scissors",
