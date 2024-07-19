@@ -1,7 +1,7 @@
 const items=[
    {
       img:"gemini.png",
-      desc:"React js, Tailwind CSS",
+      desc:"React JS, Tailwind CSS",
       title:"Gemini Clone",
       link:"https://gemini-flame-seven.vercel.app/"
    },
