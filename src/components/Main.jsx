@@ -2,7 +2,7 @@ import React from 'react'
 import { ReactTyped } from 'react-typed'
 
 const Main = () => {
-  const phrase=["Frontend Developer","Backend Developer"]
+  const phrase=["MERN Stack Developer"]
 
   return (
     <div className='flex flex-col sm:flex-row gap-4 p-5 my-7'>
