@@ -1,5 +1,11 @@
 const items=[
    {
+      img:"Brain_Tumor.png",
+      desc:"React JS, Tailwind CSS and Flask",
+      title:"Brain Tumor Detection",
+      link:"https://chinmaya-704.github.io/Brain-Tumor-Detection/"
+   },
+   {
       img:"Book.png",
       desc:"MERN Stack",
       title:"Book List App",
